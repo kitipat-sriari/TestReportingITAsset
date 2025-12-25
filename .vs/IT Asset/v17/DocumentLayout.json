@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GB Kitipat\\71 Reporting\\IT Asset\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DC10F-E1ED-44A8-8178-DE819743ECF9}|IT Asset\\IT Asset.rptproj|D:\\GB Kitipat\\71 Reporting\\IT Asset\\IT Asset\\Asset List.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{A59DC10F-E1ED-44A8-8178-DE819743ECF9}|IT Asset\\IT Asset.rptproj|solutionrelative:IT Asset\\Asset List.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59DC10F-E1ED-44A8-8178-DE819743ECF9}|IT Asset\\IT Asset.rptproj|D:\\GB Kitipat\\71 Reporting\\IT Asset\\IT Asset\\MS 365 License.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{A59DC10F-E1ED-44A8-8178-DE819743ECF9}|IT Asset\\IT Asset.rptproj|solutionrelative:IT Asset\\MS 365 License.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cab27b98-a314-48d2-9746-efe8ba39ccb0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MS 365 License.rdl [Design]",
+              "DocumentMoniker": "D:\\GB Kitipat\\71 Reporting\\IT Asset\\IT Asset\\MS 365 License.rdl",
+              "RelativeDocumentMoniker": "IT Asset\\MS 365 License.rdl",
+              "ToolTip": "D:\\GB Kitipat\\71 Reporting\\IT Asset\\IT Asset\\MS 365 License.rdl [Design]",
+              "RelativeToolTip": "IT Asset\\MS 365 License.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACpSURBVDhPlZNBDoMgEEUf9SQQWbdnaPDUkp7BrjFwEkMXLYagIH3JLIDh8ReMAJjlGGkwsD2eIbzLfWL83pvlGFvMcowvKe/lfQDBT2C8wypdnmO8A8AqfZrkli9qWKUx3rExLGWSLgENSbeAiqRLYLzbK603hoUegVX6UDmXgkSeIOcgqDXWOAj\u002BpSnoSdMU9HD5lc9IvVNYBXQM0xlpgvcExSNdTGEVH\u002BVHpLP/GKkQAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-12T08:00:47.436Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asset List.rdl [Design]",
+              "DocumentMoniker": "D:\\GB Kitipat\\71 Reporting\\IT Asset\\IT Asset\\Asset List.rdl",
+              "RelativeDocumentMoniker": "IT Asset\\Asset List.rdl",
+              "ToolTip": "D:\\GB Kitipat\\71 Reporting\\IT Asset\\IT Asset\\Asset List.rdl [Design]",
+              "RelativeToolTip": "IT Asset\\Asset List.rdl [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACpSURBVDhPlZNBDoMgEEUf9SQQWbdnaPDUkp7BrjFwEkMXLYagIH3JLIDh8ReMAJjlGGkwsD2eIbzLfWL83pvlGFvMcowvKe/lfQDBT2C8wypdnmO8A8AqfZrkli9qWKUx3rExLGWSLgENSbeAiqRLYLzbK603hoUegVX6UDmXgkSeIOcgqDXWOAj\u002BpSnoSdMU9HD5lc9IvVNYBXQM0xlpgvcExSNdTGEVH\u002BVHpLP/GKkQAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-04-25T04:48:26.603Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

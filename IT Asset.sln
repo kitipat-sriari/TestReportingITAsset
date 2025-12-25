@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "IT Asset", "IT Asset\IT Asset.rptproj", "{A59DC10F-E1ED-44A8-8178-DE819743ECF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A59DC10F-E1ED-44A8-8178-DE819743ECF9}.Debug|Default.ActiveCfg = Debug
+		{A59DC10F-E1ED-44A8-8178-DE819743ECF9}.Debug|Default.Build.0 = Debug
+		{A59DC10F-E1ED-44A8-8178-DE819743ECF9}.Debug|Default.Deploy.0 = Debug
+		{A59DC10F-E1ED-44A8-8178-DE819743ECF9}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{A59DC10F-E1ED-44A8-8178-DE819743ECF9}.DebugLocal|Default.Build.0 = DebugLocal
+		{A59DC10F-E1ED-44A8-8178-DE819743ECF9}.Release|Default.ActiveCfg = Release
+		{A59DC10F-E1ED-44A8-8178-DE819743ECF9}.Release|Default.Build.0 = Release
+		{A59DC10F-E1ED-44A8-8178-DE819743ECF9}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88784892-6FA2-4BFB-AFA8-C4093CA19272}
+	EndGlobalSection
+EndGlobal
