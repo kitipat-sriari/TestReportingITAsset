@@ -3,7 +3,7 @@
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
-    <DataSource Name="datITAsset">
+    <DataSource Name="datITAsset1">
       <DataSourceReference>datITAsset</DataSourceReference>
       <rd:SecurityType>None</rd:SecurityType>
       <rd:DataSourceID>2fbd96bc-2fdd-47d2-9d60-e5a87181f535</rd:DataSourceID>
